@@ -1,0 +1,263 @@
+Team ID,Team Name,Country,City
+3709,UiOslo_Norway,NORWAY,Oslo
+3710,Manchester,UNITED KINGDOM,Manchester
+3711,HUST-China,CHINA,Wuhan
+3712,HUSTBIONANO-China,CHINA,Wuhan
+3713,UIUC_Illinois,UNITED STATES,Urbana
+3714,SJTU-BioX-Shanghai,CHINA,Shanghai
+3715,TJUSLS_China,CHINA,Tianjin
+3716,iBowu-China,CHINA,Beijing
+3717,TAS_Taipei,TAIWAN,Taipei
+3718,Hong_Kong_UCCKE,HONG KONG,Hong Kong
+3719,MichiganState,UNITED STATES,East Lansing
+3720,Qdai,JAPAN,Fukuoka
+3721,MIT_MAHE,INDIA,Manipal
+3722,NWU-CHINA-A,CHINA,Xi'an
+3723,USAFA,UNITED STATES,Colorado Springs
+3724,Rochester,UNITED STATES,Rochester
+3725,Lambert_GA,UNITED STATES,Suwanee
+3726,MADRID_UCM,SPAIN,MADRID
+3727,Thessaloniki,GREECE,Thessaloniki
+3728,Mingdao,TAIWAN,Taichung City
+3729,KCIS_NewTaipei,TAIWAN,New Taipei City
+3730,ZJU-China,CHINA,Hangzhou
+3731,Nanjing-China,CHINA,Nanjing
+3732,FAFU-CHINA,CHINA,Fuzhou
+3733,HZAU-China,CHINA,Wuhan
+3734,CSU_CHINA,CHINA,Changsha
+3735,NAU-CHINA,CHINA,Nanjing
+3736,NCTU_Formosa,TAIWAN,Hsinchu
+3737,Alma,UNITED STATES,Alma
+3738,Lethbridge,CANADA,Lethbridge
+3739,XMU-China,CHINA,Xiamen
+3740,SZPT-CHINA,CHINA,Shenzhen
+3741,SJTU-Software,CHINA,Shanghai
+3742,BUCT-China,CHINA,Beijing
+3743,AFCM-Egypt,EGYPT,Cairo
+3744,IISER_Mohali,INDIA,Mohali
+3745,BNDS_China,CHINA,Beijing
+3746,Hong_Kong_JSS,HONG KONG,Hong Kong
+3747,Wageningen_UR,NETHERLANDS,Wageningen
+3748,Groningen,NETHERLANDS,Groningen
+3749,UNESP_Brazil,BRAZIL,Araraquara
+3750,UNSW_Australia,AUSTRALIA,Randwick
+3752,Warwick,UNITED KINGDOM,Coventry
+3753,NJTech_China,CHINA,Nanjing
+3755,ShanghaiTech_China,CHINA,Shanghai
+3756,NJU-China,CHINA,Nanjing
+3757,Tuebingen,GERMANY,Tuebingen
+3758,Marburg,GERMANY,Marburg
+3759,BJEA_China,CHINA,Beijing
+3760,LZU-CHINA,CHINA,Lanzhou
+3761,UA_Huntsville,UNITED STATES,Huntsville
+3762,NTNU-Trondheim,NORWAY,Trondheim
+3763,WHU-China,CHINA,Wuhan
+3764,Bulgaria,BULGARIA,Sofia
+3765,IISc-Bangalore,INDIA,Bengaluru
+3766,Evry_Paris-Saclay,FRANCE,Evry-Courcouronnes
+3767,Queens_Canada,CANADA,Kingston
+3768,Concordia-Montreal,CANADA,Montreal
+3769,FZU-China,CHINA,Fuzhou
+3770,SNU_India,INDIA,Uttar Pradesh
+3771,NCKU_Tainan,TAIWAN,Tainan
+3772,SCUT-China,CHINA,Guangzhou
+3773,William_and_Mary,UNITED STATES,Williamsburg
+3774,Aachen,GERMANY,Aachen
+3775,SDSU,UNITED STATES,San Diego
+3776,HK_SSC,HONG KONG,Hong Kong
+3777,OUC-China,CHINA,Qingdao
+3778,CCU_Taiwan,TAIWAN,Chiayi
+3779,NWU-CHINA-B,CHINA,Xi
+3780,Stuttgart,GERMANY,Stuttgart
+3781,TU_Kaiserslautern,GERMANY,Kaiserslautern
+3782,UNILausanne,SWITZERLAND,Lausanne
+3783,OhioState,UNITED STATES,Columbus
+3784,BNUZ-China,CHINA,Zhuhai City
+3785,OUC-R,CHINA,Qingdao
+3786,Paris_Bettencourt,FRANCE,Paris
+3787,HK_GTC,CHINA,Hong Kong
+3788,Aix-Marseille,FRANCE,Marseille
+3789,UM_Macau,MACAO,Macau
+3790,Fudan,CHINA,Shanghai
+3791,UPF_Barcelona,SPAIN,Barcelona
+3792,FSU,UNITED STATES,Tallahassee
+3793,Aalto-Helsinki,FINLAND,Espoo
+3794,KCL_UK,UNITED KINGDOM,London
+3795,Rio_UFRJ_Brazil,BRAZIL,Rio de Janeiro
+3796,CAU_China,CHINA,Beijing
+3797,QHFZ,CHINA,Beijing
+3798,SHSBNU_China,CHINA,Beijing
+3799,IISER_Kolkata,UNITED STATES,Mohanpur
+3800,Missouri_Miners,UNITED STATES,Rolla
+3801,Moscow_Lomonosov,RUSSIAN FEDERATION,Moscow
+3802,Stony_Brook,UNITED STATES,Stony Brook
+3803,Jiangnan_China,CHINA,Wuxi
+3804,UTokyo,JAPAN,Meguro-ku
+3805,BNU-China,CHINA,Beijing
+3806,TUDelft,NETHERLANDS,Delft
+3807,KU_Leuven,BELGIUM,Leuven
+3808,UCSC,UNITED STATES,Santa Cruz
+3809,TecCEM,MEXICO,Monterrey
+3810,FDR-HB_Peru,PERU,Lima
+3811,Nantes,FRANCE,Nantes
+3812,CHINA-FAFU,CHINA,Fuzhou
+3813,ASIJ_Tokyo,JAPAN,Chofu
+3814,Sydney_Australia,AUSTRALIA,Camperdown
+3815,Kyoto,JAPAN,Kyoto
+3816,HK_CPU-WFN-WYY,HONG KONG,Hong Kong
+3817,UCAS-China,CHINA,Beijing
+3819,UESTC-China,CHINA,ChengDu
+3820,RDFZ-CHINA,CHINA,Beijing
+3821,BIT,CHINA,Beijing
+3822,YiYe-China,CHINA,Wuhan
+3823,Tongji_China,CHINA,Shanghai
+3824,Korea_HS,"KOREA, REPUBLIC OF",Suwon-si
+3825,CKWA-China,CHINA,Beijing
+3826,Duesseldorf,GERMANY,Duesseldorf
+3827,British_Columbia,CANADA,Vancouver
+3828,FIS-Frankfurt,GERMANY,Oberursel
+3829,IvyMaker-China,CHINA,Shanghai
+3830,NCHU_Taichung,TAIWAN,Taichung
+3831,Brno_Czech_Republic,CZECH REPUBLIC,Brno
+3832,XJTU-China,CHINA,Xi'an
+3833,Cornell,UNITED STATES,Ithaca
+3834,CityU_HK,HONG KONG,Hong Kong
+3835,NTHU_Taiwan,TAIWAN,Hsinchu
+3836,Sorbonne_U_Paris,FRANCE,Paris
+3837,KUAS_Korea,"KOREA, REPUBLIC OF",Seoul
+3838,SZU-China,CHINA,Shenzhen
+3839,Patras,GREECE,Patras
+3840,NOUS,GREECE,
+3841,DTU-Denmark,DENMARK,Kongens Lyngby
+3842,GA_State_SW_Jiaotong,UNITED STATES,ATLANTA
+3843,Waterloo,CANADA,Waterloo
+3844,DNHS_SanDiego_CA,UNITED STATES,San Diego
+3845,Moscow,RUSSIAN FEDERATION,Moscow
+3846,Hamburg,GERMANY,Hamburg
+3847,Tongji_Software,CHINA,Shanghai
+3848,IISER_Bhopal,INDIA,Bhopal
+3849,VITBhopal,INDIA,Bhopal
+3850,Nanjing-NFLS,UNITED STATES,Nanjing
+3851,Baltimore_BioCrew,UNITED STATES,Lusby
+3852,BIT-China,CHINA,Beijing
+3853,CPU_CHINA,CHINA,Nanjing
+3854,UMA_MALAGA,SPAIN,MALAGA
+3855,BOKU-Vienna,AUSTRIA,Vienna
+3856,CTR_Alberta_Canada,CANADA,High River
+3857,RUM-UPRM,PUERTO RICO,Mayaguez
+3858,GreatBay_United,CHINA,Shenzhen
+3859,GreatBay_SZ,CHINA,Shenzhen
+3860,RUBochum,GERMANY,Bochum
+3861,Humboldt_Berlin,GERMANY,Berlin
+3862,ULaval,CANADA,Québec
+3863,PuiChing_Macau,MACAO,Macau
+3864,UParis,FRANCE,Paris
+3865,MOLECULAR-BREEDERS,RUSSIAN FEDERATION,
+3866,Thessaly,GREECE,Larissa
+3867,ICJFLS,CHINA,Jinan
+3868,NNU-China,CHINA,Nanjing
+3871,TAU_Israel,ISRAEL,Tel Aviv
+3872,Aboa,FINLAND,Turku
+3873,NJMU-China,CHINA,Nanjing
+3874,BJ101ID,CHINA,Beijing
+3875,BUCT,CHINA,Beijing
+3876,SZTA_RMG_Szeged,Hungary,Szeged
+3877,DUKEKUNSHAN,CHINA,
+3878,UParis_BME,FRANCE,Paris
+3879,Austin_UTexas,UNITED STATES,Austin
+3880,GDSYZX,UNITED STATES,Guangzhou
+3881,BSC_United,CHINA,
+3882,BS_United_China,CHINA,Shanghai
+3883,Jilin_China,CHINA,Changchun
+3884,ZJUT_China,CHINA,Hangzhou
+3885,ZJUT-China,CHINA,Hangzhou
+3886,NDNF_China,CHINA,Beijing
+3887,NoHo_China,CHINA,
+3888,SJTang,CHINA,Shanghai
+3889,IISER-Tirupati_India,INDIA,Tirupati
+3890,USP-Brazil,BRAZIL,Sao Paolo
+3891,UTFPR-PG_Brazil,BRAZIL,Paraná
+3892,Linkoping_Sweden,SWEDEN,Linkoping
+3893,Ecuador,ECUADOR,Quito
+3894,NEFU_China,CHINA,Harbin
+3895,SZ_SHD,CHINA,Wuhan
+3896,NEU_CHINA,CHINA,Shenyang
+3897,GreatBay_SCIE,CHINA,Shenzhen
+3898,DUT_China,CHINA,Dalian
+3899,Thrace,GREECE,Alexandroupolis
+3900,Bielefeld-CeBiTec,GERMANY,Bielefeld
+3901,IAR_Gandhinagar,INDIA,Ahmedabad
+3902,GO_Paris-Saclay,FRANCE,Orsay
+3903,St_Andrews,UNITED KINGDOM,St Andrews
+3904,Vilnius-Lithuania,LITHUANIA,Vilnius
+3905,City_of_London_UK,UNITED KINGDOM,London
+3906,ASTWS-China,CHINA,Hangzhou
+3907,Lethbridge_HS,CANADA,Lethbridge
+3908,Worldshaper-Shanghai,CHINA,Hangzhou
+3909,Worldshaper-Nanjing,CHINA,Hangzhou
+3910,UFlorida,UNITED STATES,Gainesville
+3911,IIT_Mandi,INDIA,Mandi
+3912,USTC,CHINA,Hefei
+3913,SPU,CHINA,Shenyang
+3914,SUSTech_Shenzhen,CHINA,Shenzhen
+3915,KAIT_Japan,JAPAN,Atsugi Kanagawa
+3916,Shanghai_HS,CHINA,Shanghai
+3917,TEC_COSTA_RICA,COSTA RICA,Cartago
+3918,UTEC-Peru,PERU,Lima
+3921,XHD-Wuhan-B-China,CHINA,Wuhan
+3922,HKBU_HKAP,HONG KONG,Kowloon Tong
+3923,HKBU,HONG KONG,
+3924,Tsinghua,CHINA,Beijing
+3925,XHD-Wuhan-Pro-China,CHINA,Wuhan
+3926,XHD-Wuhan-A-China,CHINA,Wuhan
+3927,NUS_Singapore,SINGAPORE,Singapore
+3928,NAWI-Graz,AUSTRIA,Graz
+3929,UNIZAR,SPAIN,Zaragoza
+3930,Toulouse_INSA-UPS,FRANCE,Toulouse
+3931,Navarra_BG,SPAIN,Navarre
+3932,UI_Indonesia,INDONESIA,Depok
+3933,Ionis_Paris,FRANCE,Villejuif
+3934,Uppsala,SWEDEN,Uppsala
+3935,Crete,GREECE,Heraklion
+3936,HBUT-China,CHINA,Wuhan
+3937,NPU-CHINA,CHINA,Xi'an
+3938,GCGS_China,CHINA,Shenzhen
+3939,Tianjin,CHINA,Tianjin
+3940,Istanbul_Tech,TURKEY,Istanbul
+3941,Saint_Joseph,TURKEY,Istanbul
+3942,MIPT_MSU,RUSSIAN FEDERATION,Dolgoprudny
+3944,Chalmers-Gothenburg,SWEDEN,Gothenburg
+3945,Calgary,CANADA,Calgary
+3946,Edinburgh,UNITED KINGDOM,Edinburgh
+3947,MSP-Maastricht,NETHERLANDS,Maastricht
+3948,North_Texas,UNITED STATES,Denton
+3949,Toronto,CANADA,Toronto
+3950,HUSTnano-China,CHINA,
+3950,HUSTnano-China,China,
+3951,Quantum_SY,China,
+3952,SUNY_Oneonta,United States,Oneonta
+3953,Pittsburgh,United States,Pittsburgh
+3954,UChicago,United States,Chicago
+3955,Lund,Sweden,Lund
+3956,CCA_San_Diego,United States,San Diego
+3957,Northern_BC,Canada,Prince George
+3958,USTC-Software,China,Hefei
+3959,THIS-China,China,
+3960,SYSU-CHINA,China,Guangzhou
+3961,Phystech_Moscow,Russian Federation,
+3962,Leiden,Netherlands,Leiden
+3963,Heidelberg,Germany,Heidelberg
+3964,Nanjing_NFLS,China,Nanjing
+3965,UMaryland,United States,Baltimore
+3966,SWU-Chongqing-China,China,
+3967,SWU_Chongqing_China,China,
+3968,Liao_Chongqing,China,
+3969,SWU_Liao_China,China,
+3970,ECUST_China,China,Shanghai
+3971,IISER-Pune-India,India,Pune
+3972,TU-Eindhoven,Netherlands,Eindhoven
+3973,Hopkins,United States,Baltimore
+3974,iisertvm,India,
+3975,Virginia,United States,Charlottesville
+3976,SYSU-Software,China,Guang Zhou
+3977,SCU-China,China,Chengdu
